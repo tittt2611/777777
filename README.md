@@ -16,7 +16,7 @@
 所有影片均可在线观看，采用高速CDN加载，高清不卡顿，支持1080P甚至4K画质，提供真实、流畅、舒适的观影体验。为提升用户体验，我们特别优化了移动端界面，无需跳转，一键直达播放页面。
 
 
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] ( https://github.com/tittt2611/777777 ）</span>
 
 
 
